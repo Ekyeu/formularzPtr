@@ -1,0 +1,28 @@
+.App {
+  min-height: 100vh;
+  height : auto;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(#C7253E, #821131);
+}
+
+.formularz{
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+form{
+  text-align: center;
+  background-image: linear-gradient(#E85C0D, #FABC3F);
+  width: fit-content;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+form input,select{
+  margin-bottom: 15px;
+}
